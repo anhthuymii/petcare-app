@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "name": "HuK",
+    "type": "Cún",
+    "breed": "Pug",
+    "weight": "1.4 kg",
+    "desc": "Chó Pug xuất hiện ở Trung Quốc từ rất lâu đời và thuộc giống chó mặt xệ nổi tiếng. Chúng là những chú chó vô cùng trung thành.",
+    "image": "https://zoipet.com/wp-content/uploads/2022/12/cho-pug-mat-xe-13.jpg",
+    "age": 1
+  },
+  {
+    "id": 1,
+    "name": "Rex",
+    "type": "Cún",
+    "breed": "German Shephard",
+    "weight": "1.4 kg",
+    "desc": "Chó German Shephard 1 loài chó cực kỳ thông minh, chúng có khả năng học các mệnh lệnh từ đơn giản cho đến phức tạp rất nhanh chỉ sau vài lần thực hiện. Chúng tuyệt đối trung thành, tỉnh cảm và rất thân thiện, dễ gần. Không chỉ thế, chúng còn có tính cách kiên định, lập trường vững chắc, khó bị dụ dỗ làm lung lay ý chí.",
+    "image":"https://achocanh.com/wp-content/uploads/2018/05/cho-becgie-duc.jpg",
+    "age": 1
+  },
+  {
+    "id": 2,
+    "name": "Luscot",
+    "type": "Cún",
+    "breed": "Alaska",
+    "weight": "1.4 kg",
+    "desc": "Chó Alaska hay còn gọi là chó Alaska Malamute có tổ tiên là chó sói tuyết hoang được thuần hóa bởi bộ tộc Malamute. Tuy nhiên, người Eskimo mới là người phát hiện ra sức dẻo dai đáng kinh ngạc của Alaska và tiến hành cho lai tạo chúng với một số giống chó khác để tạo ra giống Alaska khỏe mạnh, to lớn và có khả năng kéo xe trên tuyết cực tốt.",
+    "image": "https://zoipet.com/wp-content/uploads/2022/11/cho-alaska-con-mau-nau-do-nhan-giong-tai-dogily-farm-petshop.png",
+    "age": 2
+  },
+  {
+    "id": 3,
+    "name": "Rime",
+    "type": "Cún",
+    "breed": "Pomapoo",
+    "weight": "1.4 kg",
+    "desc": "Chó Pomapoo là dòng chó Phốc Sóc lai Poodle được bán với mức giá khá hợp lý tại Việt Nam. Chỉ với khoảng từ 1 đến 3 triệu đồng, bạn đã có thể sở hữu một chú chó Pom lai Poodle đáng yêu, khỏe mạnh và dễ nuôi.",
+    "image": "https://lh5.googleusercontent.com/6SRQ3hD87mpMda8ojVaTjdLs39Y05nAQ8b_xei6u3bqMxF1t3AS2tW-3cVwgIrqqkPN3L7AC0bbaVvXrmqeg-AsTXL3d4WjVfFvh4IWQssXXqDk_frS1LFKwOwxp7xZfQKygwdqfjjXaH00V2w",
+    "age": 3
+  },
+  {
+    "id": 4,
+    "name": "Louis",
+    "type": "Cún",
+    "breed": "Poodle Màu Đen",
+    "weight": "1.4 kg",
+    "desc": "Chó Poodle màu đen là một trong những giống chó cảnh được ưa chuộng nhất trong loài poodle. Chó Poodle lông đen được mô tả là có tính cách hiền lành, đáng yêu và thông minh. Nó cũng rất quấn chủ và thích hợp để nuôi trong gia đình. Chúng luôn chung sống hòa đồng và thân thiện với trẻ em, nếu có trẻ nhỏ trong gia đình chúng ta có thể yên tâm khi cho chúng chơi cùng.",
+    "image": "https://zoipet.com/wp-content/uploads/2023/01/poodle-mau-den.jpg",
+    "age": 4
+  },
+  {
+    "id": 5,
+    "name": "Remeri",
+    "type": "Cún",
+    "breed": "Pomapoo",
+    "weight": "1.4 kg",
+    "desc": "Chó Pomapoo là dòng chó Phốc Sóc lai Poodle được bán với mức giá khá hợp lý tại Việt Nam. Chỉ với khoảng từ 1 đến 3 triệu đồng, bạn đã có thể sở hữu một chú chó Pom lai Poodle đáng yêu, khỏe mạnh và dễ nuôi.",
+    "image": "https://zoipet.com/wp-content/uploads/2022/12/Corgi-duc-trang-vang-thuan-chung-bo-me-nhap-2.png",
+    "age": 3
+  },
+  {
+    "id": 6,
+    "name": "Luscot",
+    "type": "Cún",
+    "breed": "Alaska",
+    "weight": "1.4 kg",
+    "desc": "Chó Alaska hay còn gọi là chó Alaska Malamute có tổ tiên là chó sói tuyết hoang được thuần hóa bởi bộ tộc Malamute. Tuy nhiên, người Eskimo mới là người phát hiện ra sức dẻo dai đáng kinh ngạc của Alaska và tiến hành cho lai tạo chúng với một số giống chó khác để tạo ra giống Alaska khỏe mạnh, to lớn và có khả năng kéo xe trên tuyết cực tốt.",
+    "image": "https://zoipet.com/wp-content/uploads/2022/11/cho-alaska-con-mau-nau-do-nhan-giong-tai-dogily-farm-petshop.png",
+    "age": 3
+  },
+  {
+    "id": 7,
+    "name": "Rime",
+    "type": "Cún",
+    "breed": "Corgi",
+    "weight": "1.4 kg",
+    "desc": "Chó Corgi (Pembroke Welsh Corgi) dịch theo tiếng Wales nghĩa là “chú chó lùn” – tên gọi đúng như hình dáng bên ngoài của dòng chó corgi và gắn liền với tên địa phương nơi tìm thấy chúng là Pembrokeshire, xứ Wales. Corgi có nguồn gốc từ xứ Wales khoảng 3000 năm trước và nhiều người cho rằng tổ tiên của chúng là giống chó Valhunds ở Thụy Điển được lai với chó chăn cừu Wales.",
+    "image": "https://zoipet.com/wp-content/uploads/2022/12/Corgi-duc-trang-vang-thuan-chung-bo-me-nhap-2.png",
+    "age": 6
+  }
+
+]
